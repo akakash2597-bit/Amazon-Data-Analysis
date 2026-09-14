@@ -77,3 +77,18 @@ df["City"] = df["City"].fillna("Unknown")
    pip install pandas
    ```
 4. Run the Python script or Jupyter Notebook to execute the data cleaning pipeline.
+
+## 📊 Key Findings
+
+- Generated a total sales revenue of **₹XX,XXX**, highlighting the overall business performance during the analysis period.
+- **Electronics** was the highest-performing product category, contributing the largest share of total sales.
+- **[Top City]** recorded the highest sales, indicating it as one of the company's strongest markets.
+- **[Top Product]** was the best-selling product based on total revenue.
+- Sales showed noticeable fluctuations throughout the year, with the highest revenue recorded in **[Month]**, suggesting seasonal demand patterns.
+- The average order value was **₹XXX**, providing insight into customer purchasing behavior.
+- The analysis identified the top-performing products, categories, and cities, helping support data-driven business decisions.
+- Based on the findings, increasing inventory for high-demand products and planning promotions during peak sales periods could improve future business performance.
+
+###  Creator
+
+* **AKASH.V** - [GitHub Profile](https://github.com/akakash2597-bit)
